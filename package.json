@@ -1,0 +1,11 @@
+{
+  "name": "knn-playground",
+  "version": "1.0.0",
+  "private": false,
+  "type": "module",
+  "description": "A local interactive k-nearest-neighbors classifier for exploring distance-based machine learning.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test"
+  }
+}
